@@ -12,7 +12,7 @@ CONTENU DU DOSSIER (à mettre TOUS à la racine du site, sans sous-dossier) :
   4. "Settings" > "Pages" > Source : "Deploy from a branch",
      branche "main", dossier "/ (root)", puis "Save".
   5. Après 1 à 2 minutes, l'adresse apparaît en haut de la page :
-     https://VOTRE-PSEUDO.github.io/finishes-501/
+     https://madinfo74-annecy.github.io/finishes-501/
 
 ÉTAPE 2 - Installer l'application (avec internet, une seule fois)
   Android (Chrome)  : ouvrez l'adresse > menu (3 points) > "Installer l'application".
