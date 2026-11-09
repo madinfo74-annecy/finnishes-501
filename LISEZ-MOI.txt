@@ -1,0 +1,29 @@
+FINISHES 501 - ANNECY DARTS - application installable (hors ligne)
+
+CONTENU DU DOSSIER (à mettre TOUS à la racine du site, sans sous-dossier) :
+  index.html, manifest.webmanifest, sw.js,
+  icon-192.png, icon-512.png, icon-512-maskable.png, icon-180.png
+
+ÉTAPE 1 - Mettre le dossier en ligne (une seule fois, gratuit) avec GitHub Pages
+  1. Créez un compte sur github.com.
+  2. Nouveau dépôt (New repository), nom : finishes-501, visibilité : Public.
+  3. "Add file" > "Upload files" : glissez les 7 fichiers ci-dessus
+     (dézippez d'abord ce dossier), puis "Commit changes".
+  4. "Settings" > "Pages" > Source : "Deploy from a branch",
+     branche "main", dossier "/ (root)", puis "Save".
+  5. Après 1 à 2 minutes, l'adresse apparaît en haut de la page :
+     https://VOTRE-PSEUDO.github.io/finishes-501/
+
+ÉTAPE 2 - Installer l'application (avec internet, une seule fois)
+  Android (Chrome)  : ouvrez l'adresse > menu (3 points) > "Installer l'application".
+  iPhone (Safari)   : ouvrez l'adresse > bouton Partager > "Sur l'écran d'accueil".
+  Windows / Mac     : Edge ou Chrome > icône "Installer" dans la barre d'adresse.
+
+ENSUITE : l'application fonctionne sans internet.
+  Ouvrez-la une fois avec internet pour qu'elle se mette en mémoire.
+
+MISE À JOUR : remplacez index.html sur GitHub. L'application se met à jour
+  au lancement suivant avec internet (parfois au 2e lancement).
+
+NOTE : l'adresse GitHub Pages est publique : toute personne qui a le lien peut
+  l'utiliser. La progression de chacun reste sur son propre appareil.
